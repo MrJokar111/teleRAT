@@ -10,19 +10,20 @@ CYAN="\033[36m"
 RESET="\033[0m"
 
 # Print banner
-echo -e "${RED}██████╗░░█████╗░░██████╗░███████╗██████╗░░█████╗░████████╗"
-echo -e "██╔══██╗██╔══██╗██╔════╝░██╔════╝██╔══██╗██╔══██╗╚══██╔══╝"
-echo -e "██║░░██║██║░░██║██║░░██╗░█████╗░░██████╔╝███████║░░░██║░░░"
-echo -e "██║░░██║██║░░██║██║░░╚██╗██╔══╝░░██╔══██╗██╔══██║░░░██║░░░"
-echo -e "██████╔╝╚█████╔╝╚██████╔╝███████╗██║░░██║██║░░██║░░░██║░░░"
-echo -e "╚═════╝░░╚════╝░░╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░${RESET}"
-echo -e "${YELLOW}               ░D░O░G░E░ ░R░A░T░B░Y░S░ ░H░I░V░ ░A░Y░A░D░A░V░${RESET}"
-
-
-echo -e "\e[0m"
-echo "Author: shivayadv"
-echo "Github: shivaya-dav"
-echo "Telegram channel: cybershieldx"
+echo -e "${RED}████████╗███████╗██╗     ███████╗██████╗  █████╗ ████████╗
+╚══██╔══╝██╔════╝██║     ██╔════╝██╔══██╗██╔══██╗╚══██╔══╝
+   ██║   █████╗  ██║     █████╗  ██████╔╝███████║   ██║   
+   ██║   ██╔══╝  ██║     ██╔══╝  ██╔══██╗██╔══██║   ██║   
+   ██║   ███████╗███████╗███████╗██║  ██║██║  ██║   ██║   
+   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝${RESET}"
+echo -e "${YELLOW}               This TOol Created By./MR Abdo Elgokar${RESET}"
+echo -e "                        "
+echo -e "${GREEN}                           ✯✯✯✯✯✯${RESET}"
+echo -e "                        "
+echo -e "${GREEN}✵ Name: Abdo Elgokar${RESET}"
+echo -e "${GREEN}✵ Github: https://github.com/MrJokar111${RESET}"
+echo -e "${GREEN}✵ My Personal Telegram: Elgokar_1${RESET}"
+echo -e "                        "
 echo -n "Loading "
 timeout 10s bash -c '
 while true
